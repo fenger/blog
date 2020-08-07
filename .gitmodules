@@ -1,0 +1,6 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/fenger/fenger.github.io.git
+[submodule "themes/maupassant"]
+	path = themes/maupassant
+	url = https://github.com/fenger/maupassant-hugo.git
