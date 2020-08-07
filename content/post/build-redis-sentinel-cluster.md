@@ -1,7 +1,6 @@
 +++
 title="Redis哨兵集群搭建"
 date=2020-08-07T15:33:42+08:00
-draft=true
 tags=["redis"]
 categories=["Redis"]
 url="/2020/08/07/build-redis-sentinel-cluster.html"

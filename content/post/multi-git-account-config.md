@@ -1,7 +1,6 @@
 +++
 title="Git多账号配置"
 date=2020-08-07T15:33:42+08:00
-draft=true
 tags=["git"]
 categories=["Git"]
 url="/2020/08/07/multi-git-account-config.html"
