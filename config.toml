@@ -1,4 +1,4 @@
-baseURL = "http://fenger.cc"
+baseURL = "http://fenger.github.io"
 languageCode = "zh-CN"
 title = "Fenger"
 theme = "maupassant"
